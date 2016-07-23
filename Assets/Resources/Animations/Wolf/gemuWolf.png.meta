@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: f1ea84df690906b41bc1df5483900b37
+timeCreated: 1465107028
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gemuWolf_0
+    21300002: gemuWolf_1
+    21300004: gemuWolf_2
+    21300006: gemuWolf_3
+    21300008: gemuWolf_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gemuWolf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -15}
+        - {x: -31, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 9}
+        - {x: 27, y: 16}
+    - name: gemuWolf_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 14}
+        - {x: -31, y: 14}
+        - {x: -32, y: 10}
+        - {x: -32, y: -13}
+        - {x: -30, y: -16}
+        - {x: 29, y: -16}
+        - {x: 32, y: -6}
+        - {x: 32, y: 7}
+    - name: gemuWolf_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 16}
+        - {x: -32, y: 15}
+        - {x: -32, y: -16}
+        - {x: 29, y: -16}
+        - {x: 32, y: -15}
+        - {x: 32, y: 16}
+    - name: gemuWolf_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -3}
+        - {x: 32, y: 16}
+        - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: -12, y: -16}
+        - {x: -9, y: -11}
+        - {x: 7, y: -16}
+        - {x: 26, y: -16}
+    - name: gemuWolf_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -1}
+        - {x: -26, y: -4}
+        - {x: -30, y: -11}
+        - {x: -30, y: -16}
+        - {x: 29, y: -16}
+        - {x: 32, y: -15}
+        - {x: 32, y: 14}
+        - {x: 28, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

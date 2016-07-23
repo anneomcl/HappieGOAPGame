@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: d2c2b88dd4bb1f142b5c96a38eb316d4
+timeCreated: 1465364876
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Abigail_0
+    21300002: Abigail_1
+    21300004: Abigail_2
+    21300006: Abigail_3
+    21300008: Abigail_4
+    21300010: Abigail_5
+    21300012: Abigail_6
+    21300014: Abigail_7
+    21300016: Abigail_8
+    21300018: Abigail_9
+    21300020: Abigail_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Abigail_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 27}
+        - {x: -16, y: 16}
+        - {x: -16, y: -21}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 20}
+        - {x: 12, y: 32}
+    - name: Abigail_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 32}
+        - {x: -11, y: 32}
+        - {x: -16, y: 18}
+        - {x: -16, y: -31}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 22}
+        - {x: 14, y: 31}
+    - name: Abigail_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -27}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 23}
+        - {x: 12, y: 32}
+    - name: Abigail_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 32}
+        - {x: -16, y: 31}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 29}
+        - {x: 14, y: 32}
+    - name: Abigail_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 32}
+        - {x: -16, y: 31}
+        - {x: -16, y: -24}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 30}
+        - {x: 14, y: 32}
+    - name: Abigail_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -21}
+        - {x: -10, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: Abigail_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -27}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -26}
+        - {x: 16, y: 32}
+    - name: Abigail_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+    - name: Abigail_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -16, y: 28}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 30}
+        - {x: 11, y: 32}
+    - name: Abigail_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 31}
+        - {x: -9, y: 31}
+        - {x: -16, y: 24}
+        - {x: -16, y: -21}
+        - {x: -10, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 27}
+        - {x: 14, y: 29}
+    - name: Abigail_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 31}
+        - {x: -9, y: 31}
+        - {x: -16, y: 24}
+        - {x: -16, y: -21}
+        - {x: -10, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 27}
+        - {x: 14, y: 29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

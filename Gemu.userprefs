@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\Gameplay\Abigail\Abigail.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\AI\GOAPPlanner.cs" Line="98" Column="66" />
+      <File FileName="Assets\Resources\Scripts\Gameplay\Wolf\WolfAttackAction.cs" Line="14" Column="20" />
+      <File FileName="Assets\Resources\Scripts\AI\GOAPAgent.cs" Line="66" Column="40" />
+      <File FileName="Assets\Resources\Scripts\AI\FSM.cs" Line="14" Column="17" />
+      <File FileName="Assets\Resources\Scripts\AI\FSMState.cs" Line="6" Column="43" />
+      <File FileName="Assets\Resources\Scripts\AI\IGOAP.cs" Line="19" Column="40" />
+      <File FileName="Assets\Resources\Scripts\Gameplay\Wolf\Wolf.cs" Line="14" Column="21" />
+      <File FileName="Assets\Resources\Scripts\Gameplay\Abigail\AbigailAttackAction.cs" Line="31" Column="73" />
+      <File FileName="Assets\Resources\Scripts\Gameplay\Abigail\AbigailMoveAction.cs" Line="13" Column="5" />
+      <File FileName="Assets\Resources\Scripts\Gameplay\Enemy.cs" Line="88" Column="32" />
+      <File FileName="Assets\Resources\Scripts\Gameplay\Abigail\Abigail.cs" Line="31" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Anne\Documents\Gemu\Assets\Resources\Scripts\Wolf.cs" line="64" column="1" />
+      <Breakpoint file="C:\Users\Anne\Documents\Gemu\Assets\Resources\Scripts\Gameplay\WolfAttackAction.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

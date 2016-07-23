@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{45D56505-B0ED-001F-3FFA-4C936896E493}") = "Gemu", "Assembly-CSharp.csproj", "{662E6282-8E95-6987-2D16-F104A9F97AA6}"
+EndProject
+Project("{45D56505-B0ED-001F-3FFA-4C936896E493}") = "Gemu", "Assembly-CSharp-Editor.csproj", "{49EE480E-2B4A-5EB1-7EE9-4513A8775D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662E6282-8E95-6987-2D16-F104A9F97AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662E6282-8E95-6987-2D16-F104A9F97AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662E6282-8E95-6987-2D16-F104A9F97AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662E6282-8E95-6987-2D16-F104A9F97AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EE480E-2B4A-5EB1-7EE9-4513A8775D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EE480E-2B4A-5EB1-7EE9-4513A8775D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EE480E-2B4A-5EB1-7EE9-4513A8775D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EE480E-2B4A-5EB1-7EE9-4513A8775D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
